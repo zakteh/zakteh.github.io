@@ -6,9 +6,6 @@
 		<loc>https://zakteh.ru/avtokran.html</loc>
 	</url>
 	<url>
-		<loc>https://zakteh.ru/avtovishki.html</loc>
-	</url>
-	<url>
 		<loc>https://zakteh.ru/yamobur.html</loc>
 	</url>
 	<url>
@@ -103,5 +100,8 @@
 	</url>
 	<url>
 		<loc>https://zakteh.ru/index.html</loc>
+	</url>
+	<url>
+		<loc>https://zakteh.ru/avtoviski.html</loc>
 	</url>
 </urlset>
