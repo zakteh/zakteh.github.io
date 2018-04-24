@@ -2596,10 +2596,10 @@ body {
 .cid-qNpE9joEae {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/1379696373-ivanovec-ks-45717-1r-900x530.jpg");
 }
 .cid-qNpE9joEae .mbr-section-text {
-  color: #767676;
+  color: #f7ed4a;
   text-align: left;
 }
 .cid-qNpE9joEae .mbr-section-subtitle {
@@ -2632,14 +2632,14 @@ body {
 }
 .cid-qNpE9joEae .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #767676;
+  color: #f7ed4a;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: color .3s;
-  border: 2px solid #767676;
+  border: 2px solid #f7ed4a;
 }
 .cid-qNpE9joEae .nav-tabs .nav-link:hover {
   background: #149dcc;
@@ -2652,6 +2652,9 @@ body {
 }
 .cid-qNpE9joEae .nav-tabs .nav-link.active:hover {
   border: 2px solid #149dcc;
+}
+.cid-qNpE9joEae B {
+  color: #f7ed4a;
 }
 .cid-qNpE9qws69 {
   padding-top: 15px;
@@ -2698,8 +2701,8 @@ body {
   }
 }
 .cid-qNpE9tAznE {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
 .cid-qNpE9tAznE .card-box {
@@ -13650,6 +13653,15 @@ body {
 }
 .cid-qNzXktkKtw .mbr-section-subtitle DIV {
   text-align: left;
+}
+.cid-qQ7kHriM61 {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qQ7kHriM61 .mbr-text,
+.cid-qQ7kHriM61 blockquote {
+  color: #767676;
 }
 .cid-qNzXkwe1OB {
   padding-top: 30px;
@@ -26729,6 +26741,9 @@ body {
 }
 .cid-qOT7bETdGo {
   background-image: url("../../../assets/images/1366x768.jpg");
+}
+.cid-qOT7bETdGo H1 {
+  color: #f7ed4a;
 }
 .cid-qNozZKQsIB {
   padding-top: 30px;
