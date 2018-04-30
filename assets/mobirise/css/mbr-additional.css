@@ -4049,8 +4049,106 @@ body {
 .cid-qO2AmSEnJx .card-title {
   text-align: center;
 }
+.cid-qQvcjSl67H {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-qQvcjSl67H .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qQvcjSl67H .section-text {
+  padding: 2rem 0;
+}
+.cid-qQvcjSl67H .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qQvcjSl67H .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qQvcraDVQs {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-qQvcraDVQs .card-box {
+  padding: 0 2rem;
+}
+.cid-qQvcraDVQs .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qQvcraDVQs .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qQvcraDVQs h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-qQvcraDVQs p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qQvcraDVQs .mbr-text {
+  color: #767676;
+}
+.cid-qQvcraDVQs .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qQvcraDVQs .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qQvcraDVQs .card-title {
+  text-align: center;
+}
+.cid-qQvaMSoUhv {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qQvaMSoUhv .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qQvaMSoUhv .section-text {
+  padding: 2rem 0;
+}
+.cid-qQvaMSoUhv .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qQvaMSoUhv .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qQvaNNEOyd {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qQvaNNEOyd .mbr-text,
+.cid-qQvaNNEOyd blockquote {
+  color: #767676;
+}
 .cid-qO2AmUQGhN {
-  padding-top: 60px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #f9f9f9;
 }
@@ -4119,6 +4217,15 @@ body {
 }
 .cid-qO2An1dAwF .mbr-section-subtitle DIV {
   text-align: left;
+}
+.cid-qQvai66DOT {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qQvai66DOT .mbr-text,
+.cid-qQvai66DOT blockquote {
+  color: #767676;
 }
 .cid-qO2P2dj4QO {
   padding-top: 45px;
@@ -4406,7 +4513,7 @@ body {
 }
 .cid-qO2An2atld {
   padding-top: 60px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #0f7699;
 }
 .cid-qO2An2atld .mbr-section-subtitle {
@@ -4416,6 +4523,21 @@ body {
   color: #ffffff;
 }
 .cid-qO2An2atld H2 {
+  color: #ffffff;
+}
+.cid-qQvb5gThVF {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #0f7699;
+}
+.cid-qQvb5gThVF .mbr-text,
+.cid-qQvb5gThVF blockquote {
+  color: #767676;
+}
+.cid-qQvb5gThVF .mbr-text {
+  text-align: center;
+}
+.cid-qQvb5gThVF .mbr-text B {
   color: #ffffff;
 }
 .cid-qO2An3lTdc {
@@ -19087,6 +19209,15 @@ body {
 .cid-qOIdlOC2ey .mbr-section-subtitle DIV {
   text-align: left;
 }
+.cid-qQvfIHwxDS {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qQvfIHwxDS .mbr-text,
+.cid-qQvfIHwxDS blockquote {
+  color: #767676;
+}
 .cid-qOIdlPH1rQ {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -19373,7 +19504,7 @@ body {
 }
 .cid-qOIdlRZcQK {
   padding-top: 60px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #0f7699;
 }
 .cid-qOIdlRZcQK .mbr-section-subtitle {
@@ -19383,6 +19514,19 @@ body {
   color: #ffffff;
 }
 .cid-qOIdlRZcQK H2 {
+  color: #ffffff;
+}
+.cid-qQvgkRvyck {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #0f7699;
+}
+.cid-qQvgkRvyck .mbr-text,
+.cid-qQvgkRvyck blockquote {
+  color: #767676;
+}
+.cid-qQvgkRvyck .mbr-text {
+  text-align: center;
   color: #ffffff;
 }
 .cid-qOIdlT7wTp {
@@ -28551,7 +28695,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qQuIQIJgAn {
-  background-image: url("../../../assets/images/whatsapp-image-2018-03-31-at-21.21.15-480x36017.jpg");
+  background-image: url("../../../assets/images/whatsapp-image-2018-03-31-at-21.21.15-480x3608.jpg");
 }
 .cid-qQuIQIJgAn H1 {
   color: #f7ed4a;
