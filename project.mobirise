@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-25_1407-clone",
-    "currentPage": "negabarit.html",
+    "currentPage": "portner.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
       ]
     },
     "versionFirst": "4.6.6",
-    "uniqCompNum": 796,
+    "uniqCompNum": 806,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -52,7 +52,7 @@
       "settings": {
         "meta_descr": "Услуги и аренда Ассенизаторных машин в Новосибирске",
         "title": "Аренда ассенизаторской машины в Новосибирске. Цена на услуги ассенизаторской машины - Зактех Новосибирск",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -841,7 +841,7 @@
       "settings": {
         "meta_descr": "Услуги и аренда автокранов в Новосибирске, от 10 до 200 тн. Заказы принимаются круглосуточно.",
         "title": "Аренда автокрана в Новосибирске. Цены на услуги автокрана в Новосибирске ЗакТех Новосибирск",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2004,7 +2004,7 @@
       "settings": {
         "meta_descr": "Услуги ямобура в Новосибирске от 1200 руб. Работаем по НСО",
         "title": "Аренда ямобура в Новосибирске. Цена на услуги ямобура в Новосибирске. Зактех - Новосибирск",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -2786,7 +2786,7 @@
       "settings": {
         "meta_descr": "Оперативный вывоз мусора в Новосибирске с территории заказчика, Работаем в Новосибирске и в области ",
         "title": "Вывоз мусора в Новосибирске. Цена на вывоз строительного мусора в Новосибирске - Зактех Новосибирск",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -4315,7 +4315,7 @@
       "settings": {
         "meta_descr": "Аренда и услуги самогрузов в Новосибирске. Негабаритные перевозки. Перевозка спецтехники ",
         "title": "Аренда самогрузов в Новосибирске.Цена на услуги самогруза 3, 5 ,6, 7, 8, 10, 12, 15, 18, 20 тонн в Новосибирске.Заказ самогруза. Самогрузы Новосибирска - Зактех Новосибирск",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -5901,7 +5901,7 @@
       "settings": {
         "meta_descr": "Грузоперевозки в Новосибирске и области от 1.5 до 10 тонн",
         "title": "Грузоперевозки в Новосибирске и области  - Зактех Новосибирск",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -6824,7 +6824,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -7801,7 +7801,7 @@
       "settings": {
         "meta_descr": "Аренда илососа в Новосибирске. Цена на услуги илососа в Новосибирске. ",
         "title": "Аренда илососа в Новосибирске. Цена на услуги илососа в Новосибирске. Зактех Новосибирск",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -8445,7 +8445,7 @@
       "settings": {
         "meta_descr": "Аренда и услуги тралов в Новосибирске.Негабаритные перевозки",
         "title": "Аренда трала в Новосибирске. Услуги трала в Новосибирске. Зактех-Новосибирск",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -9415,7 +9415,7 @@
       "settings": {
         "meta_descr": "Услуги и аренда экскаватора погрузчика в Новосибирске и Новосибирской области",
         "title": "Аренда экскаватора погрузчика в Новосибирске. Цена на услуги экскаватора погрузчика - Зактех Новосибирск",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -10480,7 +10480,7 @@
       "settings": {
         "meta_descr": "Аренда и услуги самосвалов в Новосибирске и НСО , вывоз строительного мусора, вывоз снега, Заказ самосвалов в Новосибирске",
         "title": "Аренда самосвалов от 2 до 40 тонн в Новосибирске. Цена на услуги самосвалов  - Зактех Новосибирск",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -11527,7 +11527,7 @@
       "settings": {
         "meta_descr": "Аренда и услуги фронтального погрузчика в Новосибирске и Новосибирской области ",
         "title": "Аренда фронтального погрузчика в Новосибирске. Цена на услуги фронтального погрузчика - Зактех Новосибирск",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -12571,7 +12571,7 @@
       "settings": {
         "meta_descr": "Услуги и аренда экскаваторов в Новосибирске . Всегда широкий выбор в аренду экскаваторов,",
         "title": "Аренда экскаваторов в Новосибирске.Цена на услуги экскаваторов  - Зактех Новосибирск",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -13633,7 +13633,7 @@
       "settings": {
         "meta_descr": "Услуги и аренда контейнеровозов в Новосибирске.Перевозка контейнеров 20-40 футовых в Новосибирске.",
         "title": "Аренда контейнеровозов в Новосибирске.Цена на услуги контейнеровозов - Зактех Новосибирск",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -14634,7 +14634,7 @@
       "settings": {
         "meta_descr": "Аренда гидромолота в Новосибирске и НСО",
         "title": "Аренда гидромолота в Новосибирске.Цена на услуги гидромолота  - Зактех Новосибирск",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -15521,7 +15521,7 @@
       "settings": {
         "meta_descr": "Услуги и аренде  длинномера в Новосибирске и Новосибирской области",
         "title": "Аренда Длинномера в Новосибирске.Цена на услуги длинномера - Зактех Новосибирск",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -16422,7 +16422,7 @@
       "settings": {
         "meta_descr": "Аренда и услуги Бульдозера Новосибирск и НСО , Заказать Бульдозер в Новосибирске",
         "title": "Аренда бульдозера в Новосибирске.Цена на услуги бульдозера. Зактех-Новосибирск",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -17202,7 +17202,7 @@
       "settings": {
         "meta_descr": "Аренда и услуги автогрейдера в Новосибирске",
         "title": "Аренда грейдера в Новосибирске.Цена на услуги грейдера. Зактех Новосибирск",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -17916,7 +17916,7 @@
       "settings": {
         "meta_descr": "Аренда и услуги компрессора Новосибирск и НСО, ",
         "title": "Аренда Компрессора в Новосибирске.Цена на услуги компрессоров - Зактех Новосибирск",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -18652,7 +18652,7 @@
       "settings": {
         "meta_descr": "Услуги и аренда дорожных катков в Новосибирске",
         "title": "Аренда виброкатков в Новосибирске. Цена на услуги катков - Зактех Новосибирск",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -19391,7 +19391,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -20554,7 +20554,7 @@
       "settings": {
         "meta_descr": "Уборка снега в Новосибирске .Вывоз снега в Новосибирске ",
         "title": "Уборка и вывоз снега в Новосибирске - Зактех Новосибирск",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -21480,7 +21480,7 @@
       "settings": {
         "meta_descr": "Осуществим земляные работы, у нас: ✔ выгодные цены ✔ современная надежная техника ✔ опыт работы с 2003 года звоните ✆  8-(383) 375-71-05",
         "title": "Земляные работы в Новосибирске - Зактех Новосибирск",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -22190,7 +22190,7 @@
       "settings": {
         "meta_descr": "Демонтажные работы по низким ценам.. От проекта до вывоза мусора. Опыт работы с 2003 года. Сложные работы.",
         "title": "Демонтаж зданий и сооружений в Новосибирске - Зактех Новосибирск",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -23450,7 +23450,7 @@
       "settings": {
         "meta_descr": "Асфальтирование в Новосибирске. Ямочный ремонт. Благоустройство. Ремонт дорог в Новосибирске",
         "title": "Асфальтирование в Новосибирске. Ямочный ремонт. Благоустройство. Ремонт дорог в Новосибирске - Зактех Новосибирск",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -24885,7 +24885,7 @@
       "settings": {
         "meta_descr": "Щебень в Новосибирске.Купить щебень с доставкой в Новосибирске.",
         "title": "Щебень в Новосибирске.Купить щебень с доставкой в Новосибирске. - Зактех Новосибирск",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -25793,7 +25793,7 @@
       "settings": {
         "meta_descr": "Купить песок с доставкой в Новосибирске и Новосибирской области",
         "title": "Купить песок в Новосибирске. Доставка песка - Зактех Новосибирск",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -26626,7 +26626,7 @@
       "settings": {
         "meta_descr": "Спилим и вырубим деревья в Новосибирске по доступной цене и в кратчайшие сроки.",
         "title": "Спил деревьев - Зактех Новосибирск",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -27361,7 +27361,7 @@
       "settings": {
         "meta_descr": "Монтаж колодцев в Новосибирске",
         "title": "Монтаж колодцев в Новосибирске. Цена на установку колодцев  - Зактех Новосибирск",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -28096,7 +28096,7 @@
       "settings": {
         "meta_descr": "Горизональное направленное бурение от zakteh.ru",
         "title": "Горизональное направленное бурение ГНБ - Зактех Новосибирск",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -28831,7 +28831,7 @@
       "settings": {
         "meta_descr": "Услуги Эвакуатора в городе Новосибирске а так же перевозка грузовой спецтехники в другие регионы.",
         "title": "Эвакуатор в Новосибирске. Цена на услуги эвакуатора  - Зактех Новосибирск",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -29732,7 +29732,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -31495,7 +31495,7 @@
             }
           },
           "_name": "header12",
-          "_customHTML": "<section class=\"header12\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"vimeo-player\" mbr-class=\"{'mbr-fullscreen': fullScreen,'mbr-parallax-background' :bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n\n        <select title=\"Columns\" name=\"cardsCount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/2.gif\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073b4c\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#0f7699\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container  \">\n            <div class=\"media-container\">\n                <div class=\"col-md-12 align-center\">\n                    <h1 class=\"mbr-section-title pb-3 mbr-white mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        Аренда спецтехники в Новосибирске</h1>\n                    <p class=\"mbr-text pb-3 mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Огромный выбор спецтехники в Новосибирске</p>\n                    <div class=\"mbr-section-btn align-center py-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-secondary\" href=\"type.html\">Каталог спецтехники</a> <a class=\"btn btn-md btn-success\" href=\"complexes.html\">Комплексные работы</a></div>\n\n                    <div class=\"icons-media-container mbr-white\">\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                            \n                                <span mbr-icon class=\"mbr-iconfont mbrib-timer\"></span>\n                            \n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Быстрое прибытие спецтехники</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                \n                                    <span mbr-icon class=\"mbr-iconfont mbri-map-pin\"></span>\n                                \n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Работаем по всем районам города и области</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\" mbr-if=\"cardsCount>2\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                \n                                    <span mbr-icon class=\"mbr-iconfont mbri-cash\"></span>\n                                \n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Работаем с НДС</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\" mbr-if=\"cardsCount>3\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                \n                                    <span mbr-icon class=\"mbr-iconfont mbri-gift\"></span>\n                                \n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">Гибкая система скидок&nbsp;</h5>\n                        </div>\n                    </div>\n                </div>\n            </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header12\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"vimeo-player\" mbr-class=\"{'mbr-fullscreen': fullScreen,'mbr-parallax-background' :bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n\n        <select title=\"Columns\" name=\"cardsCount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/2.gif\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073b4c\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#0f7699\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container  \">\n            <div class=\"media-container\">\n                <div class=\"col-md-12 align-center\">\n                    <h1 class=\"mbr-section-title pb-3 mbr-white mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        Аренда спецтехники в Новосибирске</h1>\n                    <p class=\"mbr-text pb-3 mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Огромный выбор спецтехники в Новосибирске</p>\n                    <div class=\"mbr-section-btn align-center py-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-success\" href=\"type.html\">Каталог спецтехники</a> <a class=\"btn btn-md btn-success\" href=\"complexes.html\">Комплексные работы</a> <a class=\"btn btn-md btn-success\" href=\"complexes.html\">Доставка материалов</a> <a class=\"btn btn-md btn-secondary\" href=\"complexes.html\">Партнерская компания для собственников</a></div>\n\n                    <div class=\"icons-media-container mbr-white\">\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                            \n                                <span mbr-icon class=\"mbr-iconfont mbrib-timer\"></span>\n                            \n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Быстрое прибытие спецтехники</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                \n                                    <span mbr-icon class=\"mbr-iconfont mbri-map-pin\"></span>\n                                \n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Работаем по всем районам города и области</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\" mbr-if=\"cardsCount>2\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                \n                                    <span mbr-icon class=\"mbr-iconfont mbri-cash\"></span>\n                                \n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">\n                                Работаем с НДС</h5>\n                        </div>\n\n                        <div class=\"card col-12 col-md-6\" mbr-class=\"{'col-lg-3':cardsCount=='4', 'col-lg-4':cardsCount=='3'}\" mbr-if=\"cardsCount>3\">\n                            <div mbr-if=\"showIcons\" class=\"icon-block\">\n                                \n                                    <span mbr-icon class=\"mbr-iconfont mbri-gift\"></span>\n                                \n                            </div>\n                            <h5 mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" class=\"mbr-fonts-style\">Гибкая система скидок&nbsp;</h5>\n                        </div>\n                    </div>\n                </div>\n            </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "qNhWGCbDlv",
           "_anchor": "header12-1",
           "_protectedParams": [],
@@ -32514,7 +32514,7 @@
       "settings": {
         "meta_descr": "Аренда автовышки в Новосибирске. Цена на услуги автовышки в Новосибирске",
         "title": "Аренда автовышки в Новосибирске. Цена на услуги автовышки в Новосибирске. Заказать автовышку - Зактех Новосибирск",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -33538,7 +33538,7 @@
       "settings": {
         "meta_descr": "",
         "title": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -33974,7 +33974,7 @@
       "settings": {
         "meta_descr": "Автокран Като 10 тонн в Новосибирске",
         "title": "Аренда автокрана Като 10 тонн в Новосибирске",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -34480,7 +34480,7 @@
       "settings": {
         "meta_descr": "Рытье котлованов в Новосибирске и области от 150 руб за м3",
         "title": "Рытье колованов в Новосибирске и области",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -35300,7 +35300,7 @@
       "settings": {
         "meta_descr": "Рытье траншей в Новосибирске и области от 120 рублей за м3 ",
         "title": "Рытье траншей в Новосибирске и области",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -36094,7 +36094,7 @@
       "settings": {
         "meta_descr": "Планировка участков строительной техникой с геодезистом от 50 руб за м2",
         "title": "Планировка территории в Новосибирске",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -36888,7 +36888,7 @@
       "settings": {
         "meta_descr": "Осуществляем перевозку негабаритных перевозок по Новосибирску и НСО",
         "title": "Негабаритные перевозки в Новосибирске",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -38037,6 +38037,723 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qRITJSHRc7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "portner.html": {
+      "settings": {
+        "meta_descr": "Партнерская програма и профсоюз спецтехники в Новосибирске",
+        "title": "Партнерская компания для собственников",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".navbar": {
+              "padding": ".5rem 0",
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "& span": {
+                "padding-right": "0.4em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "display": "flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "padding": "0.7rem 0 !important",
+                "margin": "0rem .65rem !important"
+              }
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".btn": {
+              "padding": "0.4rem 1.5rem",
+              ".mbr-iconfont": {
+                "font-size": "1.6rem"
+              },
+              "display": "inline-flex",
+              "align-items": "center"
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "5rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "-webkit-flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "7rem",
+                  "margin": ".3rem 0",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "display": "none",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "display": "block"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgba(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "60px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "2.5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".navbar-expand": {
+                "flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".menu-logo": {
+                "flex-shrink": "0"
+              }
+            },
+            ".navbar-collapse": {
+              "flex-basis": "auto"
+            },
+            ".nav-link:hover, .dropdown-item:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    \n                         <a href=\"type.html\"><img src=\"@PROJECT_PATH@/assets/images/geo-point-app-location-gps-512-122x122.png\" alt=\"Сервис Заказа строительной спецтехники Новосибирск\" mbr-style=\"{'height': logoSize + 'rem'}\" title=\"Сервис Заказа строительной спецтехники Новосибирск\"></a>\n                    \n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"index.html\">ЗакТех</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item dropdown\">\n                    <a class=\"nav-link link text-white dropdown-toggle\" href=\"type.html\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Сервис ЗакТех</a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"avtoviski.html\" data-app-selector=\".nav-link,.dropdown-item\">Аренда автовышки</a><a class=\"text-white dropdown-item\" href=\"avtokran.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Аренда автокрана</a><a class=\"text-white dropdown-item\" href=\"assenizatorskaya.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Ассенизаторская</a><a class=\"text-white dropdown-item\" href=\"buldozer.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Бульдозера</a><a class=\"text-white dropdown-item\" href=\"greyder.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Грейдер</a><a class=\"text-white dropdown-item\" href=\"hydraulic-hammer.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Гидромолоты</a><a class=\"text-white dropdown-item\" href=\"dlinnomer.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Длинномеры</a><a class=\"text-white dropdown-item\" href=\"kompressor.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Компрессора</a><a class=\"text-white dropdown-item\" href=\"ktk.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Контейнеровозы</a><a class=\"text-white dropdown-item\" href=\"samogruz.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Самогрузы</a><a class=\"text-white dropdown-item\" href=\"samosval.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Самосвалы</a><a class=\"text-white dropdown-item\" href=\"tral.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Тралы</a><a class=\"text-white dropdown-item\" href=\"pogruzchik.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Фронтальный-Погрузчик</a><a class=\"text-white dropdown-item\" href=\"wrecking.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Эвакуаторы</a></div>\n                </li>\n                <li class=\"nav-item dropdown open\">\n                    <a class=\"nav-link link text-white dropdown-toggle\" href=\"complexes.html\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Услуги</a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"vivoz-snega.html\" data-app-selector=\".nav-link,.dropdown-item\">Уборка и вывоз снега</a><a class=\"text-white dropdown-item\" href=\"vivoz-musora.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Вывоз строительного мусора</a><a class=\"text-white dropdown-item\" href=\"demontazhnie-raboty.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Демонтажные работы</a><a class=\"text-white dropdown-item\" href=\"negabarit.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Перевозка негабаритных грузов</a><a class=\"text-white dropdown-item\" href=\"earthwork.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Земляные работы</a><a class=\"text-white dropdown-item\" href=\"roadworks.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Дорожные работы</a><a class=\"text-white dropdown-item\" href=\"cut-down-trees.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Спил деревьев</a><a class=\"text-white dropdown-item\" href=\"gnb.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">ГНБ проколы</a></div>\n                </li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"breakstone.html\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Материалы</a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"breakstone.html\" data-app-selector=\".nav-link,.dropdown-item\">Доставка щебня</a><a class=\"text-white dropdown-item\" href=\"sand.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Доставка песка</a></div></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://order.zakteh.ru/type\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>\n                    ОНЛАЙН Заказ</a> <a class=\"btn btn-sm btn-success\" href=\"tel:+7-383-3757105\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>\n                    375-71-05</a></div>\n        </div>\n    </nav>\n</section>",
+          "_cid": "qOGz6UIKlG",
+          "_anchor": "menu1-m4",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "H1": {
+              "color": "#f7ed4a"
+            }
+          },
+          "_name": "header2",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полный экран\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Стрелка\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Текст\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"@PROJECT_PATH@/assets/images/img-5708-2000x1500.jpg\" parallax selected>\n            <input type=\"color\" title=\"Цвет фона\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Фоновое видео\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#767676\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Партнерская компания для собственников</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Красивые мобильные сайты\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Вместе мы сила !!!</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"page40.html#content4-m6\">Сервис ЗакТех</a>\n                    <a class=\"btn btn-md btn-success\" href=\"page40.html#content9-m9\">Профсоюз</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_cid": "qRPeKa6wfW",
+          "_anchor": "header2-m5",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Предложение для собственников</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Мы не просто диспетчерская компания мы сервис который предоставляет интересы собственников</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qRPldW47g5",
+          "_anchor": "content4-m6",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ol": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem"
+                },
+                "& when (@stylizedCounters)": {
+                  "counter-reset": "myCounter",
+                  "li": {
+                    "list-style": "none",
+                    "padding-left": ".5rem",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "counter-increment": "myCounter",
+                      "content": "counter(myCounter)",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "40px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "40px",
+                      "height": "40px",
+                      "border-radius": "50%",
+                      "& when (@squareCounters)": {
+                        "border-radius": "0"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content11",
+          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Стилизованные маркеры\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Квадратные маркеры\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Цвет маркера\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Основная цель- создание нормальных условий для работы собственников спецтехники&nbsp;</b></li><li><b>Решение наиболее важных вопросов таких как Повышение цен</b></li><li> Работа по фиксированным ценам.&nbsp;</li><li>Гарантия 100% оплаты . Мы не бросаем вас на заявку и ждем от вас денежного вознаграждения ,а полностью ведем заказ от формирования заявки до выставления счетов.\n</li><li>Спорные моменты с заказчиком мы берём на себя. Продолжай работать ,а мы решим Все вопросы</li><li>Чёрный список заказчиков. Мы просчитываем все риски связанные с дальнейшей работой по этому списку.</li><li>&nbsp;Юридическое и бухгалтерское сопровождение сделок\n</li><li>Работа с нами позволяет забыть о многих проблемах связанных или возникающих в связи с проведением работ. В замен мы просим вас качественно выполнять все заявки.\n</li><li>Услуги работы в белую от организации с полным трудоустройством.</li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qRQtRoHZ78",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content11-m8"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Ширина текста\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Ширина линии\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Цвет линии\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;Профсоюз&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "qRQtSUUi1q",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content9-m9"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Профсоюз спецтехники - это организация, объединяющая собственников спецтехники для возможности решать возникшие вопросы, связанные с условиями их труда, с их интересами в области професиональной деятельностью.</b></p><p><b>Каждый собственник спецтехники имеет право вступить в профсоюз и задавать направление развития или улучшения условий предоставления спецтехники.</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qRPsTRaJ2Q",
+          "_anchor": "content1-m7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Ширина текста\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Ширина линии\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Цвет линии\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Вступление в профсоюз</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "qRQCeVqVwJ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content9-mb"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Вступление в профсоюз произходит через собеседование подробности по телефону <a href=\"tel:+7-383-3757105\">+7(383) 375-71-05</a></b></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qRQCtY3557",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-mc"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".content": {
+              "@media (max-width: 767px)": {
+                "text-align": "center",
+                "> div:not(:last-child)": {
+                  "margin-bottom": "2rem"
+                }
+              }
+            },
+            ".map": {
+              "height": "18.75rem"
+            },
+            ".footer-lower": {
+              ".copyright": {
+                "@media (max-width: 767px)": {
+                  "margin-bottom": "1rem",
+                  "text-align": "center"
+                }
+              },
+              "hr": {
+                "margin": "1rem 0",
+                "border-color": "#fff",
+                "opacity": ".05"
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                "-webkit-justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "justify-content": "center",
+                  "-webkit-justify-content": "center"
+                }
+              }
+            },
+            ".google-map": {
+              "height": "25rem",
+              "position": "relative",
+              "iframe": {
+                "height": "100%",
+                "width": "100%"
+              },
+              "[data-state-details]": {
+                "color": "#6b6763",
+                "font-family": "Montserrat",
+                "height": "1.5em",
+                "margin-top": "-0.75em",
+                "padding-left": "1.25rem",
+                "padding-right": "1.25rem",
+                "position": "absolute",
+                "text-align": "center",
+                "top": "50%",
+                "width": "100%"
+              },
+              "&[data-state]": {
+                "background": "#e9e5dc"
+              },
+              "&[data-state=\"loading\"]": {
+                "[data-state-details]": {
+                  "display": "none"
+                },
+                "&::after": {}
+              }
+            }
+          },
+          "_name": "footer2",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"map\" title=\"Карта\" name=\"googleMap\" place-id=\"EnPRg9C7LiDQodGD0YXQsNGA0L3QsNGPLCAxNdCQLCAzMDMsINCd0L7QstC-0YHQuNCx0LjRgNGB0LosINCd0L7QstC-0YHQuNCx0LjRgNGB0LrQsNGPINC-0LHQuy4sINCg0L7RgdGB0LjRjywgNjMwMDAxIh8aHQoWChQKEgnr224mQuTfQhFE30rAwOQhKBIDMzAz\" value=\"г. Новосибирск ул Сухарная 15а  офис 303\">\n        <input type=\"checkbox\" title=\"Авторское право\" name=\"showCopyright\" checked=\"\">\n        <select title=\"Иконки\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\" selected=\"\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Эффект появления\" name=\"reveal\" checked=\"\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Цвет фона\" value=\"#2e2e2e\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content mbr-white\">\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\">\n                    <strong>Адрес</strong>\n                    <br>\n                    <br>Улица Сухарная 15а офис 303<br>Город Новосибирск<br>\n                    <br>\n                    <br><strong>Контакты</strong>\n                    <br>\n                    ООО \"ААА Групп\"<br>Email: aaagroup@bk.ru &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Телефон: +7 383 375 71 05 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Телефон: +7 (383) 380-76-29\n                </p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\">\n                    <strong>Ссылки</strong>\n                    <br>\n                    <br><a href=\"index11.html\">Главная&nbsp;</a><br><a class=\"text-primary\" href=\"type.html\">Аренда спецтехники</a><br><a href=\"complexes.html\">Комплексные работы</a><br><a href=\"breakstone.html\">Доставка сыпучих материалов<br></a><br></p>\n            </div>\n            <div class=\"col-12 col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">Zakteh 2018 &nbsp;- все права защищены\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/ZaktehRu\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer2-md",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qRQDH88JNY",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
